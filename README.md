@@ -86,6 +86,7 @@ View open [request for comments](https://github.com/container-interop/container-
 - [XStatic](https://github.com/jeremeamia/xstatic)
 - [Zend\ServiceManager](https://github.com/zendframework/zend-servicemanager)
 - [Zit](https://github.com/inxilpro/Zit)
+- [Dhii Containers][dhii/containers]: A selection of container decorators.
 
 ### Projects implementing the *delegate lookup* feature
 
@@ -99,6 +100,7 @@ View open [request for comments](https://github.com/container-interop/container-
 - [PHP-DI](http://php-di.org)
 - [PimpleInterop](https://github.com/moufmouf/pimple-interop)
 - [Ultra-Lite Container](https://github.com/ultra-lite/container)
+- [Dhii Containers][dhii/containers]: A selection of container decorators.
 
 ### Middlewares implementing `ContainerInterface`
 
@@ -107,6 +109,7 @@ View open [request for comments](https://github.com/container-interop/container-
 - [Prefixer-Container](https://github.com/thecodingmachine/prefixer-container):
   dynamically prefix identifiers
 - [Lazy-Container](https://github.com/snapshotpl/lazy-container): lazy services
+- [Dhii Containers][dhii/containers]: A selection of container decorators.
 
 ### Projects using `ContainerInterface`
 
@@ -146,3 +149,5 @@ We try to not break BC by creating new interfaces instead of editing existing on
 
 While we currently work on interfaces, we are open to anything that might help towards interoperability, may that
 be code, best practices, etc.
+
+[dhii/containers]: https://github.com/Dhii/containers
